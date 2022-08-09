@@ -1,5 +1,7 @@
-/* THIS STILL NEEDS EDITING (ADDING PROPER COLORS N THAT) */
-/* Made by synth (www.github.com/c-um) */
+/* The original annie/dark is a bit modified version of https://github.com/swaroop3108/dark-dc/ */
+/* I have noticed a few small changes but the code is identical according to @CanadaHonk */
+
+/* Made by synth, original theme by swaroop3108 */
 
 :root
 {
@@ -18,7 +20,7 @@
     --scrollbar-auto-track: #2e3338;
     --scrollbar-thin-thumb: #202225;
     --activity-card-background: #000000;} /* Unknown */
-.input-3r5zZY {background-color: #242424;} /* Quick Switcher Search Bar */
+.input-3r5zZY {background-color: #242424;}
 .container-2McqkF {background-color: #000000;}
-.resultsGroup-cfY57t {background-color: #000000;} /* Search Options (CTRL + F) */
-.peopleColumn-1wMU14 {background-color: #000000;} /* Friends List (Inner) */
+.resultsGroup-cfY57t {background-color: #111111;} /* Not exact color that was in annie/dark.. needs modifying */
+.peopleColumn-1wMU14 {background-color: #141414;
