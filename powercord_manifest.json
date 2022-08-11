@@ -1,7 +1,7 @@
 {
     "name": "annie/dark",
     "description": "An attempt of bringing the build override back.",
-    "version": "1.1",
+    "version": "2.0",
     "author": "{bytec0de}#0001, Wolfhound905#1234",
     "theme": "anniedark.css",
     "consent": "false",
